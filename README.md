@@ -43,3 +43,4 @@ Strategic Planning: The time-series analysis shows significant scaling beginning
 
 Regional Performance: Identifies Sao Paulo as the highest-performing city by both payment value and price.
 
+https://github.com/mohitpalange/Olist-Store-Analysis/blob/main/Olist%20Store%20Analysis.png
